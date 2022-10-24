@@ -1,4 +1,4 @@
-An application that allows users to manage their contacts and save in Excel file.
+A command-line application that allows users to manage their contacts and save in Excel file.
 
 It has the following features:
 - Create file 
